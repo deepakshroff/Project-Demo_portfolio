@@ -36,6 +36,7 @@ Project-Demo_portfolio/
 - JavaScript (Vanilla)
 
 
+
 ## 📦 GitHub Repository
 
 This project is hosted on GitHub and includes all source files for the Personal Portfolio Website.  
